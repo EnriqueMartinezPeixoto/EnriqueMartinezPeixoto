@@ -3,13 +3,6 @@
 **Técnico em Informática e em Desenvolvimento de Sistemas (EETEEPA)** e estudante de **Sistemas de Informação na UFRA**, do Pará, Brasil.
 Trabalho principalmente com **Python e Java**.
 
-## 📚 Estudando agora
-
-- APIs REST com Python (FastAPI/Flask)
-- SQL e modelagem de banco de dados
-- Integração de IA em aplicações (APIs de modelos de linguagem)
-- Git e GitHub: commits organizados e documentação de projetos
-
 ## 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,10 +23,12 @@ Também uso ferramentas **no-code/low-code**: [cite quais, ex: Power Automate, n
 
 ## 📚 Estudando agora
 
-- [Tópico 1]
-- [Tópico 2]
+- APIs REST com Python (FastAPI/Flask)
+- SQL e modelagem de banco de dados
+- Integração de IA em aplicações (APIs de modelos de linguagem)
+- Git e GitHub: commits organizados e documentação de projetos
 
 ## 📫 Contato
 
-- LinkedIn: [seu link]
-- E-mail: [seu e-mail]
+- LinkedIn: https://www.linkedin.com/in/enrique-martinez-peixoto-18192b2aa/
+- E-mail: enriquemartinezpeixoto@gmail.com
